@@ -1,0 +1,37 @@
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+    height: 300px;
+    margin-left: 20%;
+   
+  }
+  .title {
+    color: rgb(221, 20, 20);
+    font-size: 24px;
+  }
+  .text{
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    width: 45%;
+  }
+  .text1{
+    color: #444444;
+    font-size: 14px;
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 3%;
+    
+  }
+  .btn{
+    background-color: #292fee;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
